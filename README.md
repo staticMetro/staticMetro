@@ -1,5 +1,3 @@
-
-
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
@@ -11,3 +9,4 @@
 </a>
 <br>
 </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
