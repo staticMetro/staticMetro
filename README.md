@@ -10,5 +10,6 @@
 <a href="mailto:eeht1717@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
 <br>
 </p>
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&combine_all_yearly_contributions=true"/>
 <p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple&combine_all_yearly_contributions=true"/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
