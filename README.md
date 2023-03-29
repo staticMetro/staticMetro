@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=8C51FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons section 
 <p align="top-right">
   <a href="https://github.com/staticMetro"><img width="32px" alt="Github" title="Github" src="https://i.imgur.com/OXZM1L6.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -22,7 +22,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-
+-->
 ---
 <br>
  🧰 Languages and Tools
