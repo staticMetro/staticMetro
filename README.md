@@ -63,4 +63,4 @@
 
 <a href="https://github.com/anuraghazra/github-readme-activity-graph"><img alt="StaticMetro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=staticMetro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![Aimeric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=staticMetro&theme=tokyonight)](https://github.com/staticMetro/github-readme-activity-graph)
+[![Aimeric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=staticMetro&theme=tokyo-night)](https://github.com/staticMetro/github-readme-activity-graph)
