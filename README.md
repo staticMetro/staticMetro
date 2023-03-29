@@ -59,7 +59,6 @@
 <p align="top-right"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
 
   
-  <details>
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/staticMetro/github-readme-stats -->
@@ -74,4 +73,3 @@
 
   <a href="https://github.com/staticMetro/github-readme-activity-graph"><img alt="StaticMetro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=staticMetro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-</details>
