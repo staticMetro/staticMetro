@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="top-right">
-  <a href="https://github.com/staticMetro"><img width="32px" alt="Github" title="Github" src="[https://i.imgur.com/qiXu7b2.png](https://github.com/simple-icons/simple-icons)"/></a>
+  <a href="https://github.com/staticMetro"><img width="32px" alt="Github" title="Github" src="https://i.imgur.com/qiXu7b2.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
