@@ -46,7 +46,7 @@
 <br />
 
 #
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <p align="top-left"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
 <p align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true"/>
   
