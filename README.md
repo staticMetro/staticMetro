@@ -55,7 +55,7 @@
 #
 
 <p align="top-left"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
-<p align="top-right"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true"/>
+<p align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=dark#gh-dark-mode-only&combine_all_yearly_contributions=true"/>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
