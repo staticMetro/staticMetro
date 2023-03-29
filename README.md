@@ -52,12 +52,12 @@
 
   
 <a href="https://github.com/staticMetro/github-readme-stats">
-  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=synthwave&count_private=true"/>
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=tokyonight&count_private=true"/>
 </a>    
 &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <a href="https://github.com/staticMetro/convoychat">
-  <img align="top" src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=synthwave#gh-dark-mode-only&combine_all_yearly_contributions=true&count_private=true"/>
+  <img align="top" src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=tokyo-night#gh-dark-mode-only&combine_all_yearly_contributions=true&count_private=true"/>
 </a>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
