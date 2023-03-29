@@ -46,10 +46,7 @@
 <br />
 
 #
-<!--https://github.com/anuraghazra/github-readme-stats#github-stats-card 
-
-<p align="top-left"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=synthwave&count_private=true"/>
-<p align="right"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=synthwave#gh-dark-mode-only&combine_all_yearly_contributions=true&count_private=true"/>
+<!--https://github.com/anuraghazra/github-readme-stats#github-stats-card
   
   -->
   
@@ -58,7 +55,7 @@
 </a>    
 &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://github.com/staticMetro/convoychat">
-  <img align="top" src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=synthwave#gh-dark-mode-only&combine_all_yearly_contributions=true&count_private=true"/>
+  <img align="top" src="https://github-contributor-stats.vercel.app/api?username=staticMetro"/>
 </a>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
