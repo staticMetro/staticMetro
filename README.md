@@ -56,11 +56,9 @@
 
 
 <p align="top-left"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple&combine_all_yearly_contributions=true"/>
-<p align="top-right"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
 
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<a href="https://github.com/anuraghazra/github-readme-activity-graph"><img alt="StaticMetro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=staticMetro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 [![Aimeric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=staticMetro&theme=tokyo-night)](https://github.com/staticMetro/github-readme-activity-graph)
