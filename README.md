@@ -55,7 +55,7 @@
 #
 
 
-<p align="top-left"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=gradient&combine_all_yearly_contributions=true"/>
+<p align="top-left"> <img src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=transparent&combine_all_yearly_contributions=true"/>
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=midnight-purple"/>
 
   
