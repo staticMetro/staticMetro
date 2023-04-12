@@ -9,6 +9,7 @@
 </p>
 
 <!-- Social icons section 
+
 <p align="top-right">
   <a href="https://github.com/staticMetro"><img width="32px" alt="Github" title="Github" src="https://i.imgur.com/OXZM1L6.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -22,6 +23,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
+
 -->
 ---
 <br>
