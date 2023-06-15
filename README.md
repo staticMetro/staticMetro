@@ -57,7 +57,7 @@
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
     
 -->
-
+<!-- 
 
 <a href="https://github.com/staticMetro/github-readme-stats">
   <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=tokyonight&count_private=true&combine_all_yearly_contributions=true"/>
@@ -70,7 +70,7 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 </a>
 -->
   
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph 
+https://github.com/ashutosh00710/github-readme-activity-graph 
 
 [![Aimeric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=staticMetro&theme=tokyo-night)](https://github.com/staticMetro/github-readme-activity-graph) 
 -->
