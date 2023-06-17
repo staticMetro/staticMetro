@@ -1,7 +1,7 @@
 <p align="center">
 <img alt="loficity" width="1000px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> 
- 
+  
 <p align="top-left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
