@@ -54,7 +54,7 @@
 <br />
     
 
-<a href="https://github.com/staticMetro/](https://github.com/staticMetro?tab=repositories">
+<a href="https://github.com/staticMetro?tab=repositories">
   <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=tokyonight&count_private=true&combine_all_yearly_contributions=true"/>
 </a>    
 &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
