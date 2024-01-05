@@ -52,10 +52,6 @@
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="confluence" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
 <br />
-
-
-#
-https://github.com/anuraghazra/github-readme-stats#github-stats-card
     
 
 <a href="https://github.com/staticMetro/github-readme-stats">
@@ -65,6 +61,9 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 
 
 <!--
+#
+https://github.com/anuraghazra/github-readme-stats#github-stats-card
+
 <a href="https://github.com/staticMetro/convoychat">
   <img align="top" src="https://github-contributor-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=tokyonight#gh-dark-mode-only&combine_all_yearly_contributions=true&count_private=true"/>
 </a>
