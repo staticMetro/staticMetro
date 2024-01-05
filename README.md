@@ -11,20 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20app%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=8C51FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 -->
-
-<p align="top-right">
-  <a href="https://github.com/staticMetro"><img width="32px" alt="Github" title="Github" src="https://i.imgur.com/OXZM1L6.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
     
 ---
 
@@ -55,7 +41,7 @@
     
 
 <a href="https://github.com/staticMetro?tab=repositories">
-  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=staticMetro&show_icons=true&theme=tokyonight&count_private=true&combine_all_yearly_contributions=true"/>
+  <img align="top-left" src="https://github-readme-stats.vercel.app/api?username=staticMetro&hide=contribs&show_icons=true&theme=midnight-purple&count_private=true&combine_all_yearly_contributions=true"/>
 </a>    
 &#8287;&#8287;&#8287;&#8287;&#8287; &#8287;&#8287;&#8287;&#8287;&#8287;
 
