@@ -1,8 +1,8 @@
- <!--
+
 <p align="center">
 <img alt="loficity" width="1000px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p> 
--->
+
 
 
 <p align="top-left">
@@ -11,7 +11,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Software%20app%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=8C51FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<!-- Social icons section 
 
 <p align="top-right">
   <a href="https://github.com/staticMetro"><img width="32px" alt="Github" title="Github" src="https://i.imgur.com/OXZM1L6.png"/></a>
@@ -26,8 +25,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-   
---> 
+    
 ---
 
 <br>
@@ -56,7 +54,6 @@
 <br />
 
 #
-<!--
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
     
 
@@ -72,4 +69,3 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 https://github.com/ashutosh00710/github-readme-activity-graph 
 
 [![Aimeric's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=staticMetro&theme=tokyo-night)](https://github.com/staticMetro/github-readme-activity-graph) 
--->
