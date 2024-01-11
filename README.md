@@ -54,8 +54,8 @@
   <img height=200 src="https://leetcode-stats-six.vercel.app/api?username=staticMetro" alt="Leetcode stats" />
   </a>
     
-  <a href="https://github.com/staticMetro/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=staticMetro&show_icons=true&line_height=28&hide_border=false&hide=contribs,stars&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews&rank_icon=percentile&theme=midnight-purple&bg_color=000000#gh-dark-mode-only" alt="Github stats" />
+  <a href="https://github.com/staticMetro/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=staticMetro&show_icons=true&line_height=28&hide_border=false&hide=contribs,stars&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews&rank_icon=percentile&bg_color=000000#gh-dark-mode-only" alt="Github stats" />
   </a>
   </div>
 </span>
@@ -65,7 +65,7 @@
   <div align="center"> 
     
   <a href="https://github.com/staticMetro/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://leetcode-stats-six.vercel.app/api?username=staticMetro" alt="Leetcode stats" />
+  <img height=200 src="https://leetcode-stats-six.vercel.app/api?username=staticMetro&theme=dark" alt="Leetcode stats" />
   </a>
     
   <a href="https://github.com/staticMetro/github-readme-stats#gh-dark-mode-only">
