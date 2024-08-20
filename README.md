@@ -43,7 +43,7 @@
 </a>    
 -->
 
-<!-- Light Mode -->
+<!-- Light Mode 
 
 <span>
   <div align="center"> 
@@ -56,6 +56,7 @@
   </a>
   </div>
 </span>
+-->
 
 <!-- Dark Mode -->
 <span>
